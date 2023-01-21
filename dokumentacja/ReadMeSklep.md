@@ -52,6 +52,8 @@ List the ready features here:
 --npm install redux
 --npm i bootstrap
 
+w skrócie npm install, ale chciałem przedstawić również pojedyncze komendy
+
 ## Usage
 
 Aplikacja stworzona w reacie, po zainstalowaniu --npm start, przeniesie nas na localhosta:3000
@@ -69,8 +71,8 @@ Room for improvement:
 
 To do:
 
-- Feature to be added 1
-- Feature to be added 2
+- koszyk
+- panel pokaż produkt
 
 ## Acknowledgements
 
